@@ -15,7 +15,7 @@ link.forEach(linkText => {
     anchor.innerHTML = linkText;
     anchor.herf = `#${linkText.toLowerCase()}`;
     anchor.style.color = "white";
-    anchor.style.fontSize = "15px";
+    anchor.style.fontSize = "16px";
     anchor.style.margin = "30px";
     anchor.style.cursor = "pointer"
     
